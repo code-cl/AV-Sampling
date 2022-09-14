@@ -2,7 +2,7 @@
 ## Introduction
 A regression task and a classification task are used to demonstrate the sampling procedure of the aggregation-value-based sampling method proposed in the submitted manuscript. Please contact cgx@nuaa.edu.cn if there is any mistake or confusion.
 
-1.Due to the random error of Shapley value, the results of rach run may be slightly different. You can run the `Step3. Showing the results`.py to get the results on the CWRU HP0 task and the Composite task (Fig. 3(a) and (f) in the manuscript).
+1.Due to the random error of Shapley value, the results of rach run may be slightly different. You can run the `Step3. Showing the results`.py to get the results on the CWRU HP0 task and the Composite task.
 
 2.The aggregation-value-based sampling method mainly contains 3 steps, run the following steps in sequence to get the final experiment results.
 
