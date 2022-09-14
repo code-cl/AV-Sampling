@@ -1,4 +1,4 @@
-# Data-sampling-via-aggregation-value
+# Sampling via aggregation value for data-driven manufacturing
 ## Introduction
 A regression task and a classification task are used to demonstrate the sampling procedure of the aggregation-value-based sampling method proposed in the submitted manuscript. Please contact cgx@nuaa.edu.cn if there is any mistake or confusion.
 
