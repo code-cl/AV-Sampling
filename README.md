@@ -1,6 +1,6 @@
 # Sampling via aggregation value for data-driven manufacturing
 ## Introduction
-A regression task and a classification task are used to demonstrate the sampling procedure of the aggregation-value-based sampling method proposed in the submitted manuscript. Please contact cgx@nuaa.edu.cn if there is any mistake or confusion.
+A regression task and a classification task are used to demonstrate the sampling procedure of the aggregation-value-based sampling method proposed in the submitted manuscript. Please contact the corresponding author if there is any mistake or confusion.
 
 1.Due to the random error of Shapley value, the results of rach run may be slightly different. You can run the `Step3. Showing the results`.py to get the results on the CWRU HP0 task and the Composite task.
 
